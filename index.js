@@ -1,4 +1,7 @@
 // Write your code here
 class Breakfast{
-  constructor(food,)
+  constructor(food,drink){
+    this.food=food;
+    this.drink=drink;
+  }
 }
